@@ -17,12 +17,12 @@ $ export FLASK_APP=PDPlatform
 
 $ export PDPlatform_SETTINGS=config.py  
 
-test on local lost:
+To test on local lost:
 $ export FLASK_DEBUG=True  
 
 $ flask run --host localhost --port 8000  
 
-test on IBM cloud service
+To test on IBM cloud service
 $ export FLASK_DEBUG=False
 
 $ flask run --host 0.0.0.0 --port 8000  
