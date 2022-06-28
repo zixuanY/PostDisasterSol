@@ -6,7 +6,7 @@ setup(
     packages=['PDPlatform'],
     include_package_data=True,
     install_requires=[
-        'arrow==0.13.0',
+        'arrow==0.15.1',
         'bs4==0.0.1',
         'Flask==1.0.2',
         'requests==2.21.0',
