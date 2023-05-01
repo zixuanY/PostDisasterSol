@@ -8,7 +8,7 @@ setup(
     install_requires=[
         'arrow==0.13.0',
         'bs4==0.0.1',
-        'Flask==1.0.2',
+        'Flask==2.3.2',
         'requests==2.21.0',
         'sh==1.12.14',
     ],
